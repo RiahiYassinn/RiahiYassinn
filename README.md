@@ -1,5 +1,10 @@
 <h1 align="center"><b>Hey , I'm Riahi Yassine </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+[LinkenIn](https://www.linkedin.com/in/yassine-riahi-63a69b242/)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <!--
+
 **RiahiYassinn/RiahiYassinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
