@@ -7,7 +7,7 @@
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 [![Linkedin Badge](https://img.shields.io/badge/-RiahiYassine-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-riahi-63a69b242/)
-[![Mail Badge](https://img.shields.io/badge/-@RiahiYassine-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azizbensmail/)
+[![Mail Badge](https://img.shields.io/badge/-@RiahiYassine-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/riahi__yassine/)
 [![Mail Badge](https://img.shields.io/badge/-RiahiYassine-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aziz.270700@gmail.com)
 
 
