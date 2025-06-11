@@ -13,8 +13,10 @@
 <!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RiahiYassinn&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia) -->
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=RiahiYassinn&show_icons=true&theme=radical) -->
 
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=RiahiYassinn&theme=react)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RiahiYassinn&&theme=algolia" alt="RiahiYassinn" /></p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
