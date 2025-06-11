@@ -16,6 +16,8 @@
 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=RiahiYassinn&theme=react)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
 <!-- Let's Connect..! -->
